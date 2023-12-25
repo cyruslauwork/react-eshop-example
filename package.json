@@ -1,0 +1,31 @@
+{
+  "name": "s226064",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node bootstrap.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^18.2.37",
+    "axios": "^1.6.2",
+    "bcrypt": "^5.1.1",
+    "esbuild": "0.19.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.6.3",
+    "path": "^0.12.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.2.2",
+    "react-bootstrap": "^2.9.1",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/jsonwebtoken": "^9.0.5",
+    "@types/react-dom": "^18.2.15"
+  }
+}
